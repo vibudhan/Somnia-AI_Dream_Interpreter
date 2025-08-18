@@ -22,10 +22,9 @@ Somnia is an **AI-powered dream interpretation app** that analyzes user-entered 
 
 ---
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### 1. Clone the Repo
-```bash
+1. Clone the Repo
 git clone https://github.com/prajwaldikshit/Somnia-AI_Dream_Interpreter.git
 cd Somnia-AI_Dream_Interpreter
 
@@ -56,5 +55,3 @@ r = httpx.post("http://localhost:8000/analyze_dream", json={
   "dream_text": "I was flying over an ocean holding a golden key..."
 })
 print(r.json()["interpretation"])
-
-
