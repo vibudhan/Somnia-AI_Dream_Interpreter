@@ -1,0 +1,306 @@
+{
+  "animals": {
+    "dog": {
+      "meanings": ["loyalty", "friendship", "protection", "instinct", "companionship"],
+      "psychological": "Represents faithful relationships, protective instincts, and unconditional loyalty. May indicate need for companionship or faithful support in your life.",
+      "cultural_variants": {
+        "western": "Companion, loyalty, and protection",
+        "eastern": "Fortune, prosperity, and good luck",
+        "native_american": "Guidance, loyalty, and spiritual protection"
+      },
+      "jungian_archetype": "loyal companion",
+      "frequency_score": 0.85
+    },
+    "cat": {
+      "meanings": ["independence", "mystery", "femininity", "intuition", "magic"],
+      "psychological": "Represents independent spirit, intuitive wisdom, and connection to the mysterious or magical aspects of life.",
+      "cultural_variants": {
+        "western": "Independence and mystery",
+        "egyptian": "Sacred, divine protection",
+        "eastern": "Good fortune and prosperity"
+      },
+      "jungian_archetype": "anima",
+      "frequency_score": 0.78
+    },
+    "snake": {
+      "meanings": ["transformation", "healing", "wisdom", "danger", "renewal", "sexuality"],
+      "psychological": "Represents profound transformation, healing energy, hidden wisdom, or repressed fears. Often indicates major life changes or spiritual awakening.",
+      "cultural_variants": {
+        "western": "Temptation, danger, or medicine",
+        "eastern": "Wisdom, renewal, and life force",
+        "native_american": "Transformation and healing power"
+      },
+      "jungian_archetype": "shadow/transformation",
+      "frequency_score": 0.92
+    },
+    "bird": {
+      "meanings": ["freedom", "spirituality", "messages", "perspective", "transcendence"],
+      "psychological": "Represents desire for freedom, spiritual aspirations, higher perspective, or messages from the unconscious.",
+      "cultural_variants": {
+        "universal": "Freedom, spirit, and transcendence",
+        "christian": "Holy spirit, divine messages",
+        "native_american": "Spirit messengers, freedom"
+      },
+      "jungian_archetype": "spirit/anima",
+      "frequency_score": 0.88
+    },
+    "horse": {
+      "meanings": ["power", "nobility", "freedom", "sexuality", "instinct"],
+      "psychological": "Represents personal power, noble qualities, wild instincts, or sexual energy. May indicate need to harness personal strength.",
+      "cultural_variants": {
+        "western": "Nobility, power, and freedom",
+        "celtic": "Otherworld, prophecy, and war",
+        "native_american": "Spiritual power and freedom"
+      },
+      "jungian_archetype": "shadow/animus",
+      "frequency_score": 0.75
+    }
+  },
+  "water": {
+    "ocean": {
+      "meanings": ["unconscious", "emotions", "vastness", "unknown", "mother", "life_source"],
+      "psychological": "Represents the vast unconscious mind, deep emotional states, the unknown aspects of self, or connection to the collective unconscious.",
+      "cultural_variants": {
+        "universal": "Life source, mystery, and the unconscious",
+        "freudian": "The unconscious mind",
+        "jungian": "Collective unconscious, the mother archetype"
+      },
+      "jungian_archetype": "great_mother/unconscious",
+      "frequency_score": 0.91
+    },
+    "river": {
+      "meanings": ["life_flow", "time", "journey", "change", "purification"],
+      "psychological": "Represents the flow of life, passage of time, personal journey, or need for emotional cleansing and renewal.",
+      "cultural_variants": {
+        "universal": "Life passage and renewal",
+        "buddhist": "Flow of existence, impermanence",
+        "christian": "Baptism, purification, spiritual renewal"
+      },
+      "jungian_archetype": "life_force",
+      "frequency_score": 0.83
+    },
+    "rain": {
+      "meanings": ["cleansing", "renewal", "fertility", "blessing", "sadness"],
+      "psychological": "Represents emotional cleansing, spiritual renewal, fertility of ideas, or release of pent-up emotions.",
+      "cultural_variants": {
+        "universal": "Cleansing and renewal",
+        "agricultural": "Fertility and blessing",
+        "desert_cultures": "Life-giving blessing"
+      },
+      "jungian_archetype": "renewal",
+      "frequency_score": 0.69
+    }
+  },
+  "flight": {
+    "flying": {
+      "meanings": ["freedom", "transcendence", "escape", "spiritual_elevation", "liberation"],
+      "psychological": "Represents desire for freedom from limitations, spiritual growth, transcendence of problems, or liberation from earthly concerns.",
+      "cultural_variants": {
+        "universal": "Liberation and aspiration",
+        "spiritual": "Transcendence and enlightenment",
+        "psychological": "Freedom from constraints"
+      },
+      "jungian_archetype": "transcendent_function",
+      "frequency_score": 0.94
+    },
+    "falling": {
+      "meanings": ["loss_of_control", "anxiety", "failure", "letting_go", "surrender"],
+      "psychological": "Represents fear of failure, loss of control in waking life, anxiety about life situations, or need to surrender control.",
+      "cultural_variants": {
+        "western": "Anxiety and loss of control",
+        "eastern": "Letting go and surrender to the flow",
+        "christian": "Fall from grace, need for faith"
+      },
+      "jungian_archetype": "shadow",
+      "frequency_score": 0.87
+    }
+  },
+  "people": {
+    "stranger": {
+      "meanings": ["unknown_self", "new_opportunities", "fear_of_unknown", "shadow_aspects"],
+      "psychological": "May represent unknown aspects of your personality, new life possibilities, fear of the unfamiliar, or projected shadow qualities.",
+      "cultural_variants": {
+        "jungian": "Shadow aspects or undeveloped potential",
+        "universal": "The unknown self or other"
+      },
+      "jungian_archetype": "shadow/anima_animus",
+      "frequency_score": 0.79
+    },
+    "child": {
+      "meanings": ["innocence", "potential", "new_beginnings", "vulnerability", "inner_child"],
+      "psychological": "Represents innocence, new potential, fresh starts, vulnerability, or connection to your inner child and wonder.",
+      "cultural_variants": {
+        "jungian": "Divine child archetype, potential",
+        "universal": "Innocence and new beginnings"
+      },
+      "jungian_archetype": "divine_child",
+      "frequency_score": 0.82
+    },
+    "wise_old_man": {
+      "meanings": ["wisdom", "guidance", "knowledge", "spiritual_teacher", "inner_wisdom"],
+      "psychological": "Represents access to inner wisdom, need for guidance, spiritual teaching, or connection to the wise aspect of yourself.",
+      "cultural_variants": {
+        "jungian": "Wise old man archetype",
+        "universal": "Wisdom and spiritual guidance"
+      },
+      "jungian_archetype": "wise_old_man",
+      "frequency_score": 0.73
+    }
+  },
+  "objects": {
+    "mirror": {
+      "meanings": ["self_reflection", "truth", "vanity", "introspection", "reality"],
+      "psychological": "Represents self-examination, truth about yourself, need for honest self-reflection, or confronting reality.",
+      "cultural_variants": {
+        "western": "Self-reflection and vanity",
+        "eastern": "Illusion versus reality, maya",
+        "fairy_tale": "Truth revelation, magic"
+      },
+      "jungian_archetype": "self_knowledge",
+      "frequency_score": 0.76
+    },
+    "key": {
+      "meanings": ["solutions", "access", "secrets", "opportunity", "unlocking_potential"],
+      "psychological": "Represents access to hidden knowledge, solutions to problems, new opportunities, or unlocking your potential.",
+      "cultural_variants": {
+        "universal": "Access and solutions",
+        "christian": "Keys to the kingdom, spiritual access",
+        "mystical": "Hidden knowledge, mysteries"
+      },
+      "jungian_archetype": "transcendent_function",
+      "frequency_score": 0.85
+    },
+    "door": {
+      "meanings": ["opportunity", "transition", "choice", "new_phase", "barrier"],
+      "psychological": "Represents opportunities, life transitions, important choices, moving to new life phases, or barriers to overcome.",
+      "cultural_variants": {
+        "universal": "Threshold, opportunity, transition",
+        "spiritual": "Portal to new awareness"
+      },
+      "jungian_archetype": "threshold",
+      "frequency_score": 0.88
+    },
+    "car": {
+      "meanings": ["personal_control", "life_direction", "independence", "journey", "ego"],
+      "psychological": "Represents your ability to control life direction, independence, personal power, or how you navigate life's journey.",
+      "cultural_variants": {
+        "modern": "Personal autonomy and control",
+        "western": "Independence and status"
+      },
+      "jungian_archetype": "ego_vehicle",
+      "frequency_score": 0.71
+    }
+  },
+  "places": {
+    "house": {
+      "meanings": ["self", "psyche", "family", "security", "inner_world"],
+      "psychological": "Represents your sense of self, psyche structure, family dynamics, need for security, or exploration of inner world.",
+      "cultural_variants": {
+        "jungian": "Psyche structure, the self",
+        "freudian": "Mind structure, family dynamics",
+        "universal": "Self and security"
+      },
+      "jungian_archetype": "self",
+      "frequency_score": 0.89
+    },
+    "forest": {
+      "meanings": ["unconscious", "mystery", "growth", "natural_wisdom", "unknown"],
+      "psychological": "Represents the unconscious mind, mysterious aspects of self, natural wisdom, personal growth, or fear of the unknown.",
+      "cultural_variants": {
+        "fairy_tale": "Enchantment, danger, and wisdom",
+        "celtic": "Otherworld, mystery, and wisdom",
+        "universal": "Nature's wisdom and mystery"
+      },
+      "jungian_archetype": "unconscious",
+      "frequency_score": 0.84
+    },
+    "bridge": {
+      "meanings": ["transition", "connection", "crossing_over", "change", "joining"],
+      "psychological": "Represents major life transitions, connecting different aspects of life, crossing from one phase to another, or bridging gaps.",
+      "cultural_variants": {
+        "universal": "Transition and connection",
+        "spiritual": "Crossing to new awareness"
+      },
+      "jungian_archetype": "transcendent_function",
+      "frequency_score": 0.77
+    }
+  },
+  "elements": {
+    "fire": {
+      "meanings": ["passion", "transformation", "destruction", "purification", "energy"],
+      "psychological": "Represents passionate emotions, transformative energy, destructive forces, spiritual purification, or vital life energy.",
+      "cultural_variants": {
+        "universal": "Transformation and passion",
+        "spiritual": "Purification and divine energy",
+        "alchemical": "Transformation and refinement"
+      },
+      "jungian_archetype": "transformation",
+      "frequency_score": 0.82
+    },
+    "earth": {
+      "meanings": ["grounding", "stability", "fertility", "materialism", "foundation"],
+      "psychological": "Represents need for grounding, stability in life, fertility and creativity, material concerns, or solid foundations.",
+      "cultural_variants": {
+        "universal": "Grounding and fertility",
+        "elemental": "Stability and foundation"
+      },
+      "jungian_archetype": "great_mother",
+      "frequency_score": 0.68
+    },
+    "air": {
+      "meanings": ["thoughts", "communication", "freedom", "intellect", "spirit"],
+      "psychological": "Represents mental activity, communication needs, desire for freedom, intellectual pursuits, or spiritual aspirations.",
+      "cultural_variants": {
+        "universal": "Thought and spirit",
+        "elemental": "Mental and communication"
+      },
+      "jungian_archetype": "spirit",
+      "frequency_score": 0.64
+    }
+  },
+  "colors": {
+    "red": {
+      "meanings": ["passion", "anger", "life_force", "power", "love"],
+      "psychological": "Represents intense emotions, passionate feelings, life energy, personal power, or strong love and desire.",
+      "cultural_variants": {
+        "western": "Passion, love, and anger",
+        "eastern": "Good fortune and joy",
+        "universal": "Life force and intensity"
+      },
+      "jungian_archetype": "life_force",
+      "frequency_score": 0.73
+    },
+    "blue": {
+      "meanings": ["peace", "spirituality", "sadness", "truth", "healing"],
+      "psychological": "Represents peaceful feelings, spiritual connection, melancholy emotions, truth-seeking, or healing energy.",
+      "cultural_variants": {
+        "western": "Peace and sadness",
+        "spiritual": "Divine connection and truth",
+        "universal": "Calm and spirituality"
+      },
+      "jungian_archetype": "spirit",
+      "frequency_score": 0.69
+    },
+    "white": {
+      "meanings": ["purity", "innocence", "new_beginnings", "clarity", "spiritual"],
+      "psychological": "Represents purity of intention, innocence, fresh starts, mental clarity, or spiritual awakening.",
+      "cultural_variants": {
+        "western": "Purity and innocence",
+        "eastern": "Death and mourning in some cultures",
+        "spiritual": "Divine light and purity"
+      },
+      "jungian_archetype": "purity",
+      "frequency_score": 0.71
+    },
+    "black": {
+      "meanings": ["mystery", "unknown", "death", "transformation", "shadow"],
+      "psychological": "Represents mysterious aspects, unknown fears, transformation through endings, or shadow aspects of personality.",
+      "cultural_variants": {
+        "western": "Death, mystery, and elegance",
+        "universal": "Mystery and the unknown"
+      },
+      "jungian_archetype": "shadow",
+      "frequency_score": 0.78
+    }
+  }
+}
