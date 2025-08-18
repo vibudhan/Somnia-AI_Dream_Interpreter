@@ -22,6 +22,11 @@ Somnia is an **AI-powered dream interpretation app** that analyzes user-entered 
 
 ---
 
+This project was personally developed by Prajwal Dikshit and Vibudhan Dubey as part of our MCA learning journey to explore AI + NLP + Web Development.
+
+
+---
+
 🚀 Getting Started
 
 1. Clone the Repo
